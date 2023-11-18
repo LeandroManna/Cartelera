@@ -1,6 +1,6 @@
 # Movies React
 
-### Proyecto de muestra que consume api de pelicular
+### Proyecto de muestra que consume api de peliculas
 
 **_ Para probar el proyecto en local _**
 
