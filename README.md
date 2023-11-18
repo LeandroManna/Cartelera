@@ -1,12 +1,12 @@
 # Movies React
 
-### Proyecto de muestra que consume api de pelicular
+### Proyecto de muestra que consume api de peliculas
 
 **_ Para probar el proyecto en local _**
 
 ```bash
 
-git clone https://github.com/ufedev/MoviesReact.git
+git clone https://github.com/LeandroManna/Cartelera.git
 
 ```
 
